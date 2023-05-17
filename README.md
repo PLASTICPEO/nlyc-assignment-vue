@@ -6,7 +6,7 @@
     NLYC Assignment
     <br />
     <br />
-    <a href="https://booreykooo.netlify.app/">View Demo</a>
+    <a href="https://booreykoo-vue.netlify.app/">View Demo</a>
   </p>
 </p>
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/PLASTICPEO/nlyc-assignment-vue
    ```
 2. Install packages
    ```sh
